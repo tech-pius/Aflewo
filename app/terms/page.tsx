@@ -1,0 +1,1 @@
+export default function Terms(){return <main><section className="inner-hero"><div className="page-shell"><p className="eyebrow">AFLEWO / Terms</p><h1>Terms of <em>use.</em></h1><p className="body-large">Launch placeholder for AFLEWO’s approved terms of use.</p></div></section></main>}

@@ -1,0 +1,11 @@
+# build output
+.next/
+out/
+build/
+
+# dependencies
+node_modules/
+
+# environment variables
+.env*.local
+.env
